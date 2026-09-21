@@ -14,7 +14,7 @@ Fine-tune around the work that matters. See what consistently activates. Special
 
 The goal isn't the biggest model.
 
-It's preserving the most useful intelligence in the smallest, fastest, most private system we can run locally.
+It's preserving the most useful intelligence in the smallest, fastest, most private system we can run locally or on a cloud instance of our own.
 
 ## Experiments
 
