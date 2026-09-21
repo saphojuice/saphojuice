@@ -1,16 +1,40 @@
-## Hi there 👋
+# SAPHOJUICE
 
-<!--
-**saphojuice/saphojuice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**It is by will alone I set my mind in motion.**
 
-Here are some ideas to get you started:
+How much useful intelligence can we get out of the hardware we already own?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I think the future of local AI gets more selective.
+
+Not just smaller models, but **specialized Mixture-of-Experts, activation-informed pruning, quantization, hardware-specific runtimes, and less memory wasted on everything around the model.**
+
+Fine-tune around the work that matters. See what consistently activates. Specialize it. Compress it. Remove what contributes little.
+
+**Keep what lights up. Cut what doesn't.**
+
+The goal isn't the biggest model.
+
+It's preserving the most useful intelligence in the smallest, fastest, most private system we can run locally.
+
+## Experiments
+
+### 001 — Speedcheck
+
+[**Try it →**](https://saphojuice.com)
+
+Measure your machine. See which local models fit and how fast they should run before downloading them.
+
+### 002 — In progress
+
+A lightweight, preloaded local AI environment with minimal OS overhead and specialized MoE models fine-tuned around different domains and types of work.
+
+The experiment: how much capability can we preserve when the entire stack — OS, runtime, model and experts — is designed around the work instead of the other way around?
+
+**Measure → Recommend → Optimize → Run**
+
+More coming.
+
+If you're working on something strange in this direction, come break it.
+
+**SAPHOJUICE**  
+*SET YOUR MIND IN MOTION.*
