@@ -1,6 +1,6 @@
 # SAPHOJUICE
 
-**It is by will alone I set my mind in motion.**
+**Set your mind in motion.**
 
 How much useful intelligence can we get out of the hardware we already own?
 
