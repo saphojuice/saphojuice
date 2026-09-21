@@ -20,7 +20,7 @@ It's preserving the most useful intelligence in the smallest, fastest, most priv
 
 ### 001 — Speedcheck
 
-[**Try it →**](https://saphojuice.com) github.com/saphojuice/speedcheck 
+[**Try it →**](https://saphojuice.com) · [**Source →**](https://github.com/saphojuice/speedcheck)
 
 Measure your machine. See which local models fit and how fast they should run before downloading them.
 
